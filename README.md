@@ -1,17 +1,14 @@
-This is a solution to the QR Code Component. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+#Frontend Mentor - QR Code Component
 
-Links
+This is a solution to the https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+Links:
 Solution URL:
 Live Site URL:
 
-Created with
-
+Created with:
 Semantic HTML5 markup
 CSS custom properties
 
-Author
-
-CodePen - @ketusi23
-Frontend Mentor - @ketusi23
-Linkedin - ketevan janashvili
+Author:
+Linkedin - https://www.linkedin.com/in/ketevan-janashvili-a51153113
