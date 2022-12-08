@@ -5,15 +5,13 @@ background: white;
 box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
 border-radius: 20px;
 padding: 16px;
-margin-left: 560px;
-margin-right: 560px;
+margin: 0 auto;
 margin-top: 152px;
- margin-bottom: 151px;
+margin-bottom: 151px;
 }
 body {
  background-color: rgb(242,242,242); 
  font-family: 'Outfit';
- margin: 0 auto;
 }
 img {
 max-width: 100%;
