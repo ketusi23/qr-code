@@ -6,7 +6,7 @@ Links:
 Live Site URL:  [click here](https://ketusi23.github.io/qr-code/)
 
 Created with:
-Semantic HTML5 markup
+Semantic HTML5 markup;
 CSS custom properties
 
 Author:
