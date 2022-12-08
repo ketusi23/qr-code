@@ -3,8 +3,7 @@
 This is a solution to the [QR Code Component.](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 Links:
-Solution URL:
-Live Site URL:
+Live Site URL:[click here](https://ketusi23.github.io/qr-code/)
 
 Created with:
 Semantic HTML5 markup
