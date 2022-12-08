@@ -13,7 +13,7 @@ margin-top: 152px;
 body {
  background-color: rgb(242,242,242); 
  font-family: 'Outfit';
- 
+ margin: 0 auto;
 }
 img {
 max-width: 100%;
